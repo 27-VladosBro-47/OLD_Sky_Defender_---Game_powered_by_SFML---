@@ -1,0 +1,229 @@
+﻿  Source.cpp
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(95): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(101): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(120): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(126): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(132): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(138): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(144): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(150): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(156): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(163): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(272): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(280): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(289): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(297): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(306): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(314): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(322): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(331): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(387): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(391): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(403): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(407): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(411): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(415): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(423): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(527): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(534): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(539): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(546): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(551): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(552): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(557): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(558): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(563): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(564): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(569): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(570): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(585): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(591): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(614): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(619): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(623): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(627): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(631): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(637): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(641): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(645): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(649): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(655): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(657): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(658): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(726): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(739): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(778): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(779): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(780): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(781): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(786): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(790): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(794): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(798): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(807): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(811): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(815): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(819): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(909): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(914): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(950): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(951): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(958): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(976): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(978): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(983): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(988): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(996): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1015): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1019): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1023): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1027): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1032): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1036): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1040): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1044): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1089): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1099): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1166): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1200): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1350): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1354): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1406): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1474): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1480): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1578): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1623): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1624): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1632): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1633): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1662): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1669): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1670): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1682): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1708): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1712): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1716): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1720): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1736): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1740): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1744): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1748): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1753): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1760): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1764): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1769): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1776): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1780): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1797): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1802): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1814): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1820): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1826): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1856): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1880): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1882): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1885): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1886): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1887): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1970): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1977): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1985): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1990): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(2010): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(2068): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(2167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(2289): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(1858): warning C4101: isActive: неиспользованная локальная переменная
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(499): warning C4715: Player::SelectSprite_Y: значение возвращается не при всех путях выполнения
+c:\users\user\source\repos\game_powered_by_sfml_1\game_powered_by_sfml_1\source.cpp(480): warning C4715: Player::SelectSprite_X: значение возвращается не при всех путях выполнения
+  Game_powered_by_SFML_1.vcxproj -> C:\Users\User\source\repos\Game_powered_by_SFML_1\Debug\Game_powered_by_SFML_1.exe
